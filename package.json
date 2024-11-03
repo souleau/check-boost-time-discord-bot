@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "discord.js": "^13.17.1"
+  },
+  "name": "check-boost-time-discord-bot",
+  "version": "0.0.1",
+  "description": "check le temps de boost des user du discord",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "+cb"
+  },
+  "author": "souleau",
+  "license": "ISC"
+}
